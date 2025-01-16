@@ -1,6 +1,7 @@
 # Data-Analytics-Projects
 Portfolio showcasing Power BI, SQL, Excel, Tableau projects
-About Me
+
+**About Me**
 Hello! 👋 I'm a dedicated professional with a diverse background in Mechanical Engineering and a growing expertise in Data Analytics. My journey has been fueled by a curiosity to understand and solve complex problems, whether it's optimizing engineering processes or deriving insights from data. With a strong analytical mindset and a passion for continuous learning, I strive to deliver meaningful results in every project I undertake.
 
 In the field of Data Analytics, I specialize in tools like Power BI, Tableau, SQL, and Excel, enabling me to transform raw data into actionable insights. I am currently learning Python and its powerful libraries, such as Pandas, NumPy, and Matplotlib, to further enhance my ability to work with data efficiently and effectively.
